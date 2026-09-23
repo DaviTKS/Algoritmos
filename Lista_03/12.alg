@@ -1,4 +1,4 @@
-algoritmo "alunos_aprovados"
+algoritmo "Funcionarios"
 
 
 
@@ -26,19 +26,19 @@ inicio
    conta <- 0
    
    para i de 1 ate 3 faca
-        escreval("Funcionário ", i)
+        escreval("Funcionï¿½rio ", i)
         escreval("")
         escreva("Nome: ")
         leia(func[i].nome)
         escreva("Cargo: ")
         leia(func[i].cargo)
-        escreva("Salário: ")
+        escreva("Salï¿½rio: ")
         leia(func[i].salario)
         escreval("")
    fimpara
    
    escreval("")
-   escreval("Funcionário com maior salário: ")
+   escreval("Funcionï¿½rio com maior salï¿½rio: ")
    
    para i de 1 ate 3 faca
         se maior < func[i].salario entao
