@@ -7,3 +7,4 @@ Ao gerar mensagens de commit automaticamente:
 - Prefira o formato Conventional Commits, mantendo o tipo em português quando houver equivalente (por exemplo, `feat`, `fix`, `docs` ou `refactor`).
 - Não traduza nomes próprios, nomes de arquivos, funções, comandos ou identificadores técnicos.
 - Não inclua ponto final na primeira linha da mensagem.
+
